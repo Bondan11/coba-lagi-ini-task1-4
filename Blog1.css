@@ -4,7 +4,7 @@
     box-sizing: border-box;
     text-decoration: none;
     list-style: none;
-    font-family: 'Rajdhani', sans-serif;
+    font-family: sans-serif;
  }
  
  /* NAVBAR */
@@ -19,7 +19,7 @@
  .navbar-left {
    display: flex;
    align-items: center;
-   font-family: Arial, Helvetica, sans-serif;
+   font-family: Helvetica, sans-serif;
  }
  
  .navbar-logo {
